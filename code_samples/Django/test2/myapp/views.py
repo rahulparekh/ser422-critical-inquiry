@@ -16,7 +16,7 @@ import MySQLdb
 
 
 def index(request):
-  conn = MySQLdb.connect(host="localhost", user="root", passwd="root", db="warehousemanagement")
+  conn = MySQLdb.connect(host="localhost", user="root", passwd="", db="warehousemanagement")
 ##  try:
 ##    cursor = conn.cursor()
 ##    cursor.execute("select * from inventory ORDER BY inventory_id")
