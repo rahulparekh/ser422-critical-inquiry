@@ -10,7 +10,7 @@ https://github.com/rahulparekh/ser422-critical-inquiry/blob/master/serversidefra
 - Advantages of server-side frameworks over client-side frameworks.
 - What is the best among the four frameworks, keeping performance in mind?
 - How do these server side frameworks incorporate security features?
-- How do supporting frameworks help in a frameworks scalability?
+- How do supporting frameworks help in a framework's scalability?
 
 # Team Members
 - Rahul Parekh (rbparekh)
