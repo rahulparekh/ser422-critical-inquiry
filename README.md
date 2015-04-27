@@ -1,5 +1,8 @@
-# ser422-critical-inquiry
+# SER422 Critical Inquiry
 Critical Inquiry on Server Side Framework Comparisons
+
+# Presentation
+https://github.com/rahulparekh/ser422-critical-inquiry/blob/master/serversideframeworks.pptx
 
 # Questions
 - How do you decide between a client-side and server-side framework?
